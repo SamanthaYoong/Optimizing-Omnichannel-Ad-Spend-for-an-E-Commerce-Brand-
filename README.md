@@ -1,5 +1,5 @@
 #  Optimizing Omnichannel Ad Spend for an E-Commerce Brand  
-### Driving GMV and ROAS Efficiency Across Shopee, Lazada, Meta, and Google  
+### ✅ Driving GMV and ROAS Efficiency Across Shopee, Lazada, Meta, and Google  
 
 ---
 
@@ -36,7 +36,7 @@ The case mirrors real-world **Performance Marketing workflows** at agencies like
 
 ---
 
-##  Methodology  
+🌟 ##  Methodology  
 
 ### 1. Campaign Setup & Audit  
 - Designed a **funnel-based campaign structure**:
@@ -68,7 +68,7 @@ Automated data extraction using:
 
 ---
 
-### 4. Key Results  
+✅ ### 4. Key Results  
 
 | Metric | Before Optimization | After Optimization | % Change |
 |:-------|:--------------------:|:------------------:|:---------:|
@@ -86,7 +86,7 @@ Automated data extraction using:
 
 ---
 
-##  Key Learnings  
+📚 ##  Key Learnings  
 - Mastered **cross-platform budget pacing and forecasting** in high-volume campaigns.  
 - Understood the value of **daily campaign QA** for spend control and accuracy.  
 - Developed **data storytelling and visualization** skills for client reporting.  
